@@ -1,0 +1,11 @@
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\bin\Debug\ContentManagementSystemUI.exe.config
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\bin\Debug\ContentManagementSystemUI.exe
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\bin\Debug\ContentManagementSystemUI.pdb
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\obj\Debug\ContentManagementSystemUI.csproj.AssemblyReference.cache
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\obj\Debug\ContentManagementSystemUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\obj\Debug\ContentManagementSystemUI.Form1.resources
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\obj\Debug\ContentManagementSystemUI.Properties.Resources.resources
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\obj\Debug\ContentManagementSystemUI.csproj.GenerateResource.cache
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\obj\Debug\ContentManagementSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\obj\Debug\ContentManagementSystemUI.exe
+C:\Users\Tristan\Documents\Web Development\ContentManagementSystem\ContentManagementSystemUI\obj\Debug\ContentManagementSystemUI.pdb
